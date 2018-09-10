@@ -1,0 +1,19 @@
+{
+  "name": "hidden-class",
+  "version": "1.0.0",
+  "description": "Apply directly to the forehead.",
+  "main": "src/main.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeMizuhashi/hidden-class.git"
+  },
+  "author": "Luke Mizuhashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukeMizuhashi/hidden-class/issues"
+  },
+  "homepage": "https://github.com/LukeMizuhashi/hidden-class#readme"
+}
